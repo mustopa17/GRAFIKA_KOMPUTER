@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\PROJEK\graafkom\latihan1\latihan1\Source.cpp(74,27): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  latihan1.vcxproj -> C:\PROJEK\graafkom\latihan1\x64\Debug\latihan1.exe
